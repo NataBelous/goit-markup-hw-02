@@ -2,3 +2,38 @@
     background-color: #E5E5E5; 
     color: #212121;
 }
+
+.style-studio {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.style-web {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+}
+
+.list {
+    list-style: none;
+}
+
+.list-link:focus, .list-link:hover {
+    color: #2196F3;
+    }
+
+.button-link:focus, .button-link:hover {
+    background-color: #2196F3;
+    color: #E5E5E5;
+}
+
+.list-text {
+    
+}
